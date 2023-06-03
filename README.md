@@ -1,4 +1,4 @@
-# Codeclause-Timer-stopwatch-project-1
+# Timer-stopwatch
 #TASK 2
 # Stopwatch
 
@@ -34,11 +34,11 @@ These instructions will help you get a copy of the project up and running on you
 
 1. Clone the repository:
 
-` git clone https://github.com/yashmitha-pentakota/Codeclause-Timer-stopwatch-project-1 `
+` git clone https://github.com/yashmitha-pentakota/'Timer-stopwatch`
 
 2. Navigate to the project directory:
 
-`cd Codeclause-Timer-stopwatch-project-1`
+`cd Timer-stopwatch`
 
 3. Open the `index.html` file in your preferred web browser.
 
